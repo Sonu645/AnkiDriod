@@ -1,0 +1,2 @@
+# AnkiDriod
+Fix Debug
